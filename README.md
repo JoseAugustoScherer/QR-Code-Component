@@ -22,6 +22,10 @@
   <img alt="projeto QR Code" src=".github/QRCode.png" width="100%">
 </p>
 
+<p align="center">
+  <a  href="https://joseaugustoscherer.github.io/QR-Code-Component/" target="_blank">Acesse o site aqui!</a>
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
