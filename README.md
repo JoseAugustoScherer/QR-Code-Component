@@ -1,4 +1,4 @@
-<h1 align="center">QR Code component | Front End Mentor </h1>
+<h1 align="center">QR Code component | Frontend Mentor </h1>
 <h3 align="center"> Projeto frontend #01 </h3>
 
 <hr>
