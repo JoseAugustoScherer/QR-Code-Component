@@ -19,7 +19,7 @@
 ## 🖌️ Layout
 
 <p align="center">
-  <img alt="projeto QR Code" src=".github/TomJazzSchooL.png" width="100%">
+  <img alt="projeto QR Code" src=".github/QRCode.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
